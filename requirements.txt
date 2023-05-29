@@ -1,2 +1,4 @@
+notebook==6.5.4
 pandas==2.0.1
 pyarrow==12.0.0
+
