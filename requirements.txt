@@ -1,4 +1,0 @@
-notebook==7.0.3
-pandas==2.1.1
-pyarrow==13.0.0
-
