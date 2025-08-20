@@ -14,7 +14,10 @@
             "extensions": [
                 "ms-toolsai.jupyter",
                 "ms-python.python"
-            ]
+            ],
+            "features": {
+                "ghcr.io/va-h/devcontainers-features/uv:1": {}
+            },
         }
     }
 }
